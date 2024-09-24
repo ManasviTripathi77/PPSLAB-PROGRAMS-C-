@@ -1,0 +1,5 @@
+In this program we have used header file, standard information, int main function to put main body in the program
+Base class for the shape has virtual class 
+Derived class, Dynamic binding render shape depending whether the shape is circle or rectangle 
+Virtual distructor
+At last return 0 for successfully executed 
